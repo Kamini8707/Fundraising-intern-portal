@@ -23,9 +23,7 @@ A basic Full Stack Intern Dashboard built using [your tech stack name here, e.g.
 
 
 🗂️ Repository Structure
-bash
-Copy
-Edit
+
 Fundraising-intern-portal/
 ├── assets/
 │   ├── logo.png
@@ -39,19 +37,12 @@ Fundraising-intern-portal/
 ├── script.js
 ├── README.md
 └── .gitignore
-📸 Screenshots
-Page	Screenshot
-🏠 Homepage	
-🔐 Login Page	
-📊 Dashboard	
+
 
 ⚙️ Setup Instructions
 Clone the Repository
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/Fundraising-intern-portal.git
+git clone https://github.com/Kamini8707/Fundraising-intern-portal.git
 cd Fundraising-intern-portal
 Open the Project
 
