@@ -20,6 +20,52 @@ A basic Full Stack Intern Dashboard built using [your tech stack name here, e.g.
 
 ```bash
 # Frontend
+
+
+🗂️ Repository Structure
+bash
+Copy
+Edit
+Fundraising-intern-portal/
+├── assets/
+│   ├── logo.png
+│   └── ...
+├── screenshots/
+│   ├── homepage.png
+│   ├── dashboard.png
+│   └── login-form.png
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── .gitignore
+📸 Screenshots
+Page	Screenshot
+🏠 Homepage	
+🔐 Login Page	
+📊 Dashboard	
+
+⚙️ Setup Instructions
+Clone the Repository
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/Fundraising-intern-portal.git
+cd Fundraising-intern-portal
+Open the Project
+
+Just open index.html in any web browser.
+
+Make sure all linked CSS and JS files are in the same directory or properly referenced.
+
+(Optional) Run with Live Server
+
+Install the Live Server extension in VS Code.
+
+Right-click index.html → “Open with Live Server”.
+
+
 cd frontend
 open index.html
 
